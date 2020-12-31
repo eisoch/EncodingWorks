@@ -12,8 +12,20 @@
 > [L2/20-098](http://www.unicode.org/L2/L2020/20098-irgn2414-one-char-deunify.pdf) Proposal to De-Unify One Obsolete Simplified Chinese Character, Alexander Zapryagaev</br>
 > [L2/20-100](http://www.unicode.org/L2/L2020/20100-irgn2414-china-fdbk.pdf) IRGN2414 Feedback From China, Tao Yang
 
+[L2/20-106R](http://www.unicode.org/L2/L2020/20106r-unihan-adhoc-utc163.pdf) Unihan Ad Hoc Recommendations for UTC #163 Meeting</br>
+* Ken Lunde, Unihan Ad Hoc participants are Lee Collins, John Jenkins, Ken Lunde, William Nelson, Ben Yang and me
+
+[L2/20-168](http://www.unicode.org/L2/L2020/20168-unihan-adhoc-utc164.pdf) Unihan Ad Hoc Recommendations for UTC #164 Meeting</br>
+* Ken Lunde, Unihan Ad Hoc participants are John Jenkins, Ken Lunde, William Nelson, Yifan Wang and me 
+
 [L2/20-205](http://www.unicode.org/L2/L2020/20205-fdbk-mc-00137.pdf) Feedback on MC-00137 glyph in L2/20-203</br>
 > [L2/20-203](http://www.unicode.org/L2/L2020/20205-fdbk-mc-00137.pdf) Submission of 5 Macao SARG UNC Characters and One TCA UNC character, IRG
+
+[L2/20-210](http://www.unicode.org/L2/L2020/20210-irgn2434-disunify-722b.pdf) Request to dis-unify U+722B</br>
+* Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
+
+[L2/20-230](http://www.unicode.org/L2/L2020/20230-vn-src-data-chg-irgn2440.pdf) Source, glyph, and other data changes relating to IRGN2429R</br>
+* Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
 
 [L2/20-233](http://www.unicode.org/L2/L2020/20233-kana-fdbk-shakuhachi.pdf) Feedback on L2/20-209 and some information for the shakuhachi musical notation</br>
 > [L2/20-209](http://www.unicode.org/L2/L2020/20209-taiwan-kana.pdf) A Proposal to Encode Taiwanese Kana, Fredrick R. Brennan</br>
