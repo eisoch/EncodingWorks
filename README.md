@@ -33,8 +33,11 @@
 
 [L2/20-234](http://www.unicode.org/L2/L2020/20234-v0-src-corr-irgn2429r.pdf) V0-Source corrections
 
+[L2/20-235](http://www.unicode.org/L2/L2020/20235-unihan-adhoc-utc165.pdf) Unihan Ad Hoc Recommendations for UTC #165 Meeting</br>
+* Ken Lunde, Unihan Ad Hoc participants are Lee Collins, John Jenkins, Ken Lunde, William Nelson, Ngo Thanh Nhan, Stephan Hyeonjun Stiller, Yifan Wang and me
+
 [L2/20-291](http://www.unicode.org/L2/L2020/20291-irgn2443-3b3f-disunify.pdf) Request for consideration to disunify U+3B3F
 
 [L2/20-293](http://www.unicode.org/L2/L2020/20293-0641-issue.pdf) U+0641 information for Uyghur, Kazakh and Kyrgyz</br>
-* with Kushi Jiang and Kwat Ulan</br>
+* with Kushim Jiang and Kwat Ulan</br>
 > [L2/20-289](http://www.unicode.org/L2/L2020/20289-kazakh-kyrgyz-uyghur-annot.pdf) Request for glyph changes and annotations for Kazakh, Kyrgyz, and Uyghur, Lorna Priest Evans
