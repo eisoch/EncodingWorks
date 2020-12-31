@@ -57,7 +57,8 @@
 > [CNFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2431ChinaFeedback.pdf) China Feedback</br>
 > [IRGN2430R](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2430R.pdf) Macao SCS and requests for Vertical, Horizontal and IVD registration  \[[Appendix](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2430R.zip)\], Macao SARG
 
-[IRGN2432](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2432.pdf) Request to change V-source codes for some WS2017 characters
+[IRGN2432](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2432.pdf) Request to change V-source codes for some WS2017 characters</br>
+* Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
 
 [IRGN2434](https://drive.google.com/file/d/162T5y6gcrzmECaaOV9nqSt0V0PDp0NEf/view?usp=sharing) Request to dis-unify U+722B \[[Weiyun](https://share.weiyun.com/AEh5i2ef)\]</br>
 * Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
