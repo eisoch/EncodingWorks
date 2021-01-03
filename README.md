@@ -66,3 +66,70 @@
 [IRGN2436](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2436_FS_TSf_issues.pdf) Request to clarify some FS, T/S flag issues in IRG WS encoding works
 
 [IRGN2443](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2443_3B3F_disunify.pdf) Request to disunify U+3B3F
+
+# 2019
+
+## UTC
+
+[L2/19-011](http://www.unicode.org/L2/L2019/19011-uax45-idu-san.pdf) Proposal to add one Idu character for the place name to UAX \#45
+
+[L2/19-081](http://www.unicode.org/L2/L2019/19081-usource-ref-update.pdf) Proposal to update the U-Source reference for U+2B089</br>
+* with John Jenkins, Ken Lunde and Henry Chan
+
+[L2/19-089](http://www.unicode.org/L2/L2019/19089-uax45music.pdf) Proposal to add 4 music-used ideographs to UAX \#45</br>
+* with Kushim Jiang
+
+[L2/19-100](http://www.unicode.org/L2/L2019/19100-cantonese-bopomofo.pdf) Preliminary proposal to encode four extended Bopomofo letters for Cantonese
+
+[L2/19-107](http://www.unicode.org/L2/L2019/19107-n5041-jianzi-notation.pdf) Preliminary proposal on encoding Jianzi Musical Notation and Jianzi Format Controls</br>
+* Culture and Art Publishing House</br>
+> [L2/19-226](http://www.unicode.org/L2/L2019/19226-n5074-jianzi-cmt.pdf) Comments on WG2-N5041, China National Database of Characters Program
+
+[L2/19-177R](http://www.unicode.org/L2/L2019/19177r-cantonese-bopomofo.pdf) Proposal to encode Cantonese Bopomofo Characters</br>
+* with Ben Yang
+
+[L2/19-242](http://www.unicode.org/L2/L2019/19242-n5094-irgn2370-v4-src-question.pdf) 20 questionable V4-Source characters in Ext. C and Ext. E
+
+## WG2
+
+[WG2 N5041](https://unicode.org/wg2/docs/n5041-Jianzi.pdf) Preliminary proposal on encoding Jianzi Musical Notation and Jianzi Format Controls</br>
+* Culture and Art Publishing House</br>
+> [WG2 N5074](https://unicode.org/wg2/docs/n5074-Comments-on-Guqin-Jianzi-encoding.pdf) Comments on Guqin Jianzi proposal, China National Database of Characters Program
+
+[WG2 N5052](https://unicode.org/wg2/docs/n5052-19177r-cantonese-bopomofo.pdf) Proposal to encode Cantonese Bopomofo Characters</br>
+* with Ben Yang
+
+[WG2 N5094](https://unicode.org/wg2/docs/n5094-IRGN2370-VHorizontalExtensions.pdf) 20 questionable V4-Source characters in Ext. C and Ext. E
+
+[WG2 N5099](https://unicode.org/wg2/docs/n5099-IRGN2327FeedbackByEisoHenryJaemin.pdf) Feedback on WS2015 V6.1 code chart</br>
+* with Henry Chan and Jaemin Chung
+
+## IRG
+
+[IRGN2369EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2369_EisoFeedback.pdf) Feedback on IRGN2369</br>
+> [IRGN2369](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2369ProposedHorizontalExtension.pdf) Horizontal Extension Request from UTC, UTC</br>
+> [IRGN2369R](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2369RProposedHorizontalExtension.pdf) Horizontal Extension Request from UTC, UTC
+
+[IRGN2370](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2370.pdf) Questionable characters in Ext. C and Ext. E.</br>
+> [IRGN2370VNResp](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2370VietResponseToEiso.pdf) Vietnam response on IRGN2370, Lee Collins
+
+[IRGN2372](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2372_intro_jianzi.pdf) A short introduction to Jianzi Musical Symbols encoding
+
+[IRGN2373EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373_EisoFeedback.pdf) Feedback on IRGN2373</br>
+> [IRGN2373](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373VariantIssuesSATProject.pdf) Issue of Multiple Variants in the Buddhist Scripures of the SAT Project \[[Appendix 2](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373_Appendix2-KINUGAWAKenjiArticle.pdf)\] \[[Appendix 3](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373_Appendix3-WanJinchuanArticle.pdf)\], TCA</br>
+> [IRGN2373MingFanFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373_MingFanFeedback.pdf) Feedback on IRGN2373, Ming Fan</br>
+> [IRGN2373SATResp](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2373SATResponseMultipleVariants.pdf) SAT Response on IRGN2373, SAT
+
+[IRGN2382](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg52/IRGN2382.pdf) Information on Vietnamese Reading Marks
+
+[IRGN2408EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2408EisoFeedbackonAnnexD.doc) Feedback on Annex D</br>
+> [IRGN2408D](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2408IRGPnPV12.doc) IRG PnP V12 \(Draft\), IRG</br>
+> [IRGN2408YifanFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2408YifanFeedback.docx) Yifan Feedback, Yifan Wang</br>
+> [IRGN2408C](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2408IRGPnPV12Confirmed.pdf) IRG PnP V12 \(Confirmed\), IRG</br>
+> [IRGN2408SF](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2408SubmissionForm.xlsx) IRG characters submisson form, IRG
+
+[IRGN2413R2](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2413_IDS_issues.pdf) Request to clarify some IDS issues
+
+[IRGN2414EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414DiscussionOnSlack.pdf) Discussion on IRGN2414 among Woo Chi Chung, William Nelson and John Jenkinson Slack</br>
+> [IRGN2414](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414.pdf) Proposal to De-Unify One Obsolete Simplified Chinese Character, Alexander Zapryagaev</br>
+> [CNFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414FeedbackfromChina.pdf) China Feedback, Tao Yang
