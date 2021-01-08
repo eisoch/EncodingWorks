@@ -1,3 +1,13 @@
+# 2021
+
+## UTC
+
+[L2/21-024](http://www.unicode.org/L2/L2021/21024-nushu-prop-chg.pdf) Updates for 3 values for 3 Nushu characters in UCD</br>
+* with Kushim Jiang
+
+[L2/21-029](http://www.unicode.org/L2/L2021/21029-four-v-source-glyphs.pdf) Proposal to Correct Four Vietnamese Glyphs</br>
+* Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
+
 # 2020
 
 ## UTC
