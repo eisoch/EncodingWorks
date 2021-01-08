@@ -140,6 +140,6 @@
 
 [IRGN2413R2](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2413_IDS_issues.pdf) Request to clarify some IDS issues
 
-[IRGN2414EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414DiscussionOnSlack.pdf) Discussion on IRGN2414 among Woo Chi Chung, William Nelson and John Jenkinson Slack</br>
+[IRGN2414EisoFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414DiscussionOnSlack.pdf) Discussion on IRGN2414 among Woo Chi Chung, William Nelson and John Jenkins on Slack</br>
 > [IRGN2414](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414.pdf) Proposal to De-Unify One Obsolete Simplified Chinese Character, Alexander Zapryagaev</br>
 > [IRGN2414CNFB](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2414FeedbackfromChina.pdf) China Feedback, Tao Yang
