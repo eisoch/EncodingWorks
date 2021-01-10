@@ -8,6 +8,11 @@
 [L2/21-029](http://www.unicode.org/L2/L2021/21029-four-v-source-glyphs.pdf) Proposal to Correct Four Vietnamese Glyphs</br>
 * Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
 
+## IRG
+
+[IRGN2445](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2445.pdf) Proposal to Correct Four Vietnamese Glyphs</br>
+* Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
+
 # 2020
 
 ## UTC
