@@ -2,6 +2,9 @@
 
 ## UTC
 
+[L2/21-015](http://www.unicode.org/L2/L2021/21015-cjk-unihan-group-utc166.pdf) CJK & Unihan Group Recommendations for UTC #166 Meeting</br>
+* Ken Lunde, CJK & Unihan Group participants are Lee Collins, John Jenkins, Ken Lunde, William Nelson, Stephan Hyeonjun Stiller, Yifan Wang, Selena Wei and me
+
 [L2/21-024](http://www.unicode.org/L2/L2021/21024-nushu-prop-chg.pdf) Updates for 3 values for 3 Nushu characters in UCD</br>
 * with Kushim Jiang
 
