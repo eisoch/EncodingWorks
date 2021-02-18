@@ -11,6 +11,10 @@
 [L2/21-029](http://www.unicode.org/L2/L2021/21029-four-v-source-glyphs.pdf) Proposal to Correct Four Vietnamese Glyphs</br>
 * Vietnam NB, the co-authors are Lee Collins, Ngo Thanh Nhan and me
 
+[L2/21-050](http://www.unicode.org/L2/L2021/21050-n5155-comments.pdf) Chinese comments on WG2 N5155</br>
+* China NB, the co-authors are Wushour Silamu and me</br>
+> [L2/20-289](https://www.unicode.org/L2/L2020/20289-kazakh-kyrgyz-uyghur-annot.pdf) Request for glyph changes and annotations for Kazakh, Kyrgyz, and Uyghur, Lorna Priest Evans
+
 ## IRG
 
 [IRGN2445](https://appsrv.cse.cuhk.edu.hk/~irg/irg/irg53/IRGN2445.pdf) Proposal to Correct Four Vietnamese Glyphs</br>
